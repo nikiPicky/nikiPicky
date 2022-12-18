@@ -4,7 +4,6 @@ Hey,
 I'm Nikhil. I live in India. I have been a iOS application developer professionally since 2021.
 
 <br>
-<br>
 <p align="leading">
 <img src="https://raw.githubusercontent.com/nikiPicky/nikiPicky/main/resources/apple.gif" width="125">
 </p>
