@@ -11,6 +11,7 @@ I also work on small-scale projects using Javascript and Python.
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img src="https://raw.githubusercontent.com/nikiPicky/nikiPicky/AddingGIFs/resources/github.gif" width="100">
+  <img src="https://raw.githubusercontent.com/nikiPicky/nikiPicky/main/resources/apple.gif" width="100">
 </p>
 <br>
 <br>
