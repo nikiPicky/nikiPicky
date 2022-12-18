@@ -5,7 +5,7 @@ I'm Nikhil. I live in India. I have been a iOS application developer professiona
 
 <br>
 <p align="leading">
-<img src="https://raw.githubusercontent.com/nikiPicky/nikiPicky/main/resources/apple.gif" width="125">
+<img src="https://raw.githubusercontent.com/nikiPicky/nikiPicky/main/resources/apple.gif" width="100">
 </p>
 
 I also work on small-scale projects using Javascript and Python.
