@@ -1,4 +1,4 @@
-# nikiPicky
+# Nikhil Jaggi
 
 Hey,
 I'm Nikhil. I live in India. I have been a iOS application developer professionally since 2021.
