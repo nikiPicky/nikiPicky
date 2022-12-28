@@ -27,7 +27,7 @@ I also work on small-scale projects using Javascript and Python.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkhljgg&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
-- How to reach me:
+## How to reach me
 
     * [**Drop a Mail**](mailto:nkhljgg@gmail.com)
 
