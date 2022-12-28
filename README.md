@@ -28,6 +28,7 @@ I also work on small-scale projects using Javascript and Python.
 </div>
 
 ## How to reach me
+- 
 
     * [**Drop a Mail**](mailto:nkhljgg@gmail.com)
 
