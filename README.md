@@ -30,8 +30,8 @@ I also work on small-scale projects using Javascript and Python.
 ## How to reach me
  
 -
-    * [**Drop a Mail**](mailto:nkhljgg@gmail.com)
+     [**Drop a Mail**](mailto:nkhljgg@gmail.com)
 -
-    * [**Connect via LinkedIn**](www.linkedin.com/in/nikhil-jaggi)
+     [**Connect via LinkedIn**](www.linkedin.com/in/nikhil-jaggi)
 -
-    * [**Visit my Website**](https://github.com/nikiPicky/)
+     [**Visit my Website**](https://github.com/nikiPicky/)
