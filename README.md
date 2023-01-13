@@ -8,7 +8,7 @@ I'm Nikhil. I live in India. I have been a iOS application developer professiona
 <img src="https://raw.githubusercontent.com/nikiPicky/nikiPicky/main/resources/apple.gif" width="100">
 </p>
 
-I also work on small-scale personal projects using Javascript and Python during my spare time.
+I also work on small-scale personal projects using JavaScript and Python during my spare time.
 
 <br>
 <br>
