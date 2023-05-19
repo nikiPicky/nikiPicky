@@ -1,7 +1,7 @@
 # Nikhil Jaggi
 
 Hey,
-I am Nikhil. I live in India. I have been a iOS application developer professionally since 2021.
+I'm Nikhil. I live in India. I have been a iOS application developer professionally since 2021.
 
 <br>
 <p align="leading">
